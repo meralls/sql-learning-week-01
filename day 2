@@ -1,8 +1,9 @@
 🚀 **Day 2 – SQL Learning Journey**
 
-Today I focused on mastering the **`WHERE` clause** in SQL and learned how to use the **`AND` operator** to combine multiple conditions in queries.
+Today I expanded my SQL knowledge by diving deeper into the **`WHERE` clause** and learning how to filter data using **comparison operators** (`=`, `>`, `<`, `>=`, `<=`, `!=`), the **`AND` operator** for combining multiple conditions, and the **`BETWEEN` operator** for filtering values within a specific range.
 
-To reinforce what I learned, I completed several hands-on exercises and practiced writing queries with different filtering scenarios. Solving these exercises helped me better understand how SQL retrieves specific data based on multiple conditions.
+I also explored the **`COUNT()` aggregate function** to count records and practiced applying these concepts through a variety of hands-on SQL exercises. Working on different query scenarios helped me strengthen my understanding of data filtering and aggregation while improving my problem-solving skills.
 
-Every day of practice makes me more confident in my SQL skills. Looking forward to learning even more tomorrow! 💻📚
+Step by step, I'm building a solid foundation in SQL and becoming more confident with every practice session. Looking forward to continuing this learning journey! 💻📚
 
+#SQL #MySQL #Database #LearningInPublic #100DaysOfCode #SoftwareDevelopment #DataAnalytics #BusinessAnalytics #CodingJourney
