@@ -1,1 +1,32 @@
+# 📅 SQL Learning Journey – Progress Update
+
+Today, I reviewed all the SQL topics I have learned so far and reinforced my knowledge by solving many practice exercises. My goal is not only to learn new concepts but also to strengthen my understanding through consistent repetition and hands-on practice.
+
+### Topics I reviewed:
+
+* `SELECT`
+* `WHERE` clause
+* Comparison operators (`=`, `!=`, `>`, `<`, `>=`, `<=`)
+* Logical operators (`AND`, `OR`, `NOT`)
+* `LIKE` operator and wildcards (`%`, `_`)
+* `BETWEEN`
+* `IN`
+* `ORDER BY`
+* `DISTINCT`
+* Aggregate functions:
+
+  * `COUNT()`
+  * `SUM()`
+  * `AVG()`
+  * `MIN()`
+  * `MAX()`
+* `GROUP BY`
+* Column aliases using `AS`
+
+During today's review, I solved a wide variety of SQL exercises to improve my ability to filter, sort, group, and analyze data. I also spent extra time practicing `WHERE`, `AND`, `OR`, and `LIKE` with different scenarios to better understand how they work in real-world queries.
+
+Building a strong SQL foundation is my current priority. By staying consistent and practicing every day, I will be well prepared to move on to more advanced topics such as **JOINs, HAVING, Subqueries, Views, Stored Procedures, and Database Design**.
+
+**Small progress every day leads to big results. 🚀**
+
 
