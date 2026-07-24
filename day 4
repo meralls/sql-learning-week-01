@@ -1,1 +1,22 @@
 
+## Day 5 – Learning SQL Aggregate Functions
+
+Today, I focused on learning **SQL Aggregate Functions** and understanding how they are used to analyze data efficiently. I studied the most commonly used aggregate functions, including **COUNT()**, **SUM()**, **AVG()**, **MAX()**, and **MIN()**, and learned how each function summarizes data from multiple rows into a single result.
+
+I also practiced using these functions together with the **GROUP BY** clause to generate meaningful summaries, such as counting records, calculating totals, averages, and finding maximum and minimum values for different groups of data.
+
+To reinforce my understanding, I completed a variety of hands-on SQL exercises using real queries. I experimented with different scenarios, analyzed the results, and corrected my mistakes until I fully understood how aggregate functions work in practice. These exercises helped strengthen both my SQL syntax and my problem-solving skills.
+
+### Topics Covered
+
+* SQL Aggregate Functions
+* `COUNT()`
+* `SUM()`
+* `AVG()`
+* `MAX()`
+* `MIN()`
+* `GROUP BY`
+* Data summarization and analysis
+* Hands-on SQL practice and query reinforcement
+
+Every practice session helps me become more confident in writing SQL queries and analyzing data effectively. 🚀
